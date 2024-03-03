@@ -8,10 +8,10 @@ function UserDetail() {
 
     return(
         <>
-        <div>UserDetails</div>
-        <p>Name{data.name}</p>
-        <p>Address{data.address}</p>
-        <p>Country{data.country}</p>
+        <h1>UserDetails</h1>
+        <h2>Name{data.name}</h2>
+        <h2>Address{data.address}</h2>
+        <h2>Country{data.country}</h2>
         
         
         </>

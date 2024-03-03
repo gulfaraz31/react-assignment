@@ -47,7 +47,7 @@ root.render(
     <RouterProvider router={router} />
     <UserState>
       <App />
-      <UserDetail/>
+      <UserDetail />
     </UserState>
   </React.StrictMode>
 );
